@@ -1,6 +1,6 @@
 # qjwdnbseghdxxx
 
-## Build Setup
+## https://vuepizd.netlify.app/
 
 ```bash
 # install dependencies
